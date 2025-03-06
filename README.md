@@ -1,6 +1,6 @@
 # Olá, Eu sou o Gustavo Brazilino! 👋
 
-## � Estudante de Engenharia Mecatrônica | Apaixonado por Robótica
+## 🤖 Estudante de Engenharia Mecatrônica | Apaixonado por Robótica 🤖
 
 **Universidade Federal de Uberlândia (UFU), Brasil**
 
@@ -70,7 +70,7 @@ Sou um entusiasta da tecnologia, apaixonado por **inteligência artificial**, **
 
 - [LinkedIn](https://www.linkedin.com/in/gbrazilino)  
 - [Email](mailto:gustavobrazilino@gmail.com)  
-- [GitHub](https://github.com/seu_usuario)
+- [Instagram](https://github.com/g_brazilino)
 
 ---
 
