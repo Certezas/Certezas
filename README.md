@@ -16,6 +16,7 @@ Sou um entusiasta da tecnologia, apaixonado por **inteligência artificial**, **
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ROS](https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Webots](https://img.shields.io/badge/-Webots-000000?style=for-the-badge&logo=webots&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -30,7 +31,11 @@ Sou um entusiasta da tecnologia, apaixonado por **inteligência artificial**, **
    - Liderança de projetos envolvendo **CAD/CAE** e simulações estruturais.
    - Desenvolvimento e análise de estruturas para competições de robótica.
 
-#### 2. **Laboratório de Robótica (LAR) - UFU**
+#### 2. **Membro das Áreas de Movimento e Visão Computacional - Equipe EDROM**
+   - **Movimento**: Desenvolvimento de sistemas de controle de motores para robôs humanoides, garantindo precisão e eficiência nos movimentos.
+   - **Visão Computacional**: Implementação de algoritmos para detecção de objetos, navegação autônoma e reconhecimento de padrões.
+
+#### 3. **Laboratório de Robótica (LAR) - UFU**
    - Projeto de **Desenvolvimento de um Robô Humanoide com Atuadores Lineares**.
    - Responsável pelo desenvolvimento da parte estrutural e elétrica do robô.
 
@@ -70,7 +75,7 @@ Sou um entusiasta da tecnologia, apaixonado por **inteligência artificial**, **
 
 - [LinkedIn](https://www.linkedin.com/in/gbrazilino)  
 - [Email](mailto:gustavobrazilino@gmail.com)  
-- [Instagram](https://github.com/g_brazilino)
+- [Instagram](https://www.instagram.com/g_brazilino)
 
 ---
 
