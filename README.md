@@ -38,9 +38,9 @@ Sou um entusiasta da tecnologia, apaixonado por **inteligência artificial**, **
 
 ### 📊 Estatísticas do GitHub
 
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=radical)
+![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Certezas&show_icons=true&theme=radical)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&theme=radical)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Certezas&layout=compact&theme=radical)
 
 ---
 
@@ -49,11 +49,11 @@ Sou um entusiasta da tecnologia, apaixonado por **inteligência artificial**, **
 - **Engenharia Mecatrônica** - Universidade Federal de Uberlândia (UFU)  
   *Cursando*  
 - **Técnico em Informática**  
-  *Concluído*  
-- **Diretor de Estrutura** - Equipe EDROM  
-  *Atual*  
+  *Concluído*   
 - **Iniciação Científica** - Laboratório de Robótica - UFU  
   *Concluído*
+- **Diretor de Estrutura** - Equipe EDROM  
+  *Atual* 
 
 ---
 
