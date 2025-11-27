@@ -8,13 +8,19 @@ Sou um entusiasta da tecnologia, apaixonado por **inteligência artificial**, **
 
 **Minha missão:** Aprender, crescer e contribuir para projetos que impactam o mundo! 🚀
 
+
+<div align="center">
+  <img src="tchauzinho.gif" width="200" alt="Robô dando tchauzinho no Webots" />
+</div>
+
+
+
 ---
 
 ### 🛠️ Habilidades e Ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![ROS](https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Webots](https://img.shields.io/badge/-Webots-000000?style=for-the-badge&logo=webots&logoColor=white)
@@ -27,16 +33,17 @@ Sou um entusiasta da tecnologia, apaixonado por **inteligência artificial**, **
 
 ### 🚀 Projetos Destacados
 
-#### 1. **Diretor da Área de Estrutura - Equipe EDROM**
-   - Liderança de projetos envolvendo **CAD/CAE** e simulações estruturais.
-   - Desenvolvimento e análise de estruturas para competições de robótica.
+#### 1. **Projeto de Fim de Curso - Método de Controle de Caminhada Humanoide**
+   - Desenvolvimento de um método de controle de caminhada clássico para robôs humanoides.
+   - Implementação e análise da teoria de controle proposta por Shuuji Kajita, focada na geração de padrões de caminhada estáveis utilizando o Ponto de Momento Zero (ZMP).
 
-#### 2. **Membro das Áreas de Movimento e Visão Computacional - Equipe EDROM**
-   - **Movimento**: Desenvolvimento de sistemas de controle de motores para robôs humanoides, garantindo precisão e eficiência nos movimentos.
-   - **Visão Computacional**: Implementação de algoritmos para detecção de objetos, navegação autônoma e reconhecimento de padrões.
+#### 2. **Contribuições de Desenvolvimento de Software para a Equipe EDROM**
+   - Contribuição ativa para o repositório da EDROM (Equipe de Desenvolvimento em Robótica Móvel - UFU) no desenvolvimento de códigos para visão computacional, controle de movimento e tomada de decisões de robôs humanoides.
+   - [Repositório da Equipe EDROM]([https://github.com/edromufu/])
 
 #### 3. **Laboratório de Robótica (LAR) - UFU**
    - Projeto de **Desenvolvimento de um Robô Humanoide com Atuadores Lineares**.
+   - O projeto foca no desenvolvimento de um robô humanoide de tamanha real movido por meio de atuadores lineares, explorando um mecanismo de movimento alternativo ao uso de motores seriais, otimizando a estrutura e a cinemática do robô.
    - Responsável pelo desenvolvimento da parte estrutural e elétrica do robô.
 
 ---
@@ -51,13 +58,15 @@ Sou um entusiasta da tecnologia, apaixonado por **inteligência artificial**, **
 
 ### 📚 Formação e Experiência
 
-- **Engenharia Mecatrônica** - Universidade Federal de Uberlândia (UFU)  
-  *Cursando*  
 - **Técnico em Informática**  
   *Concluído*   
 - **Iniciação Científica** - Laboratório de Robótica - UFU  
   *Concluído*
+- **Engenharia Mecatrônica** - Universidade Federal de Uberlândia (UFU)  
+  *Cursando*  
 - **Diretor de Estrutura** - Equipe EDROM  
+  *Atual* 
+- **Estagiário de Inovação** - Verry Máquinas  
   *Atual* 
 
 ---
